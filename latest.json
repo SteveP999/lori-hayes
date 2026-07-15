@@ -1,17 +1,11 @@
 {
-  "title": "Don't Cost Nothin'",
+  "title": "Walk Away Clean",
   "artist": "Lori Hayes",
-  "album": "Singles",
+  "album": "Wild Heart",
   "type": "Latest Single",
-  "cover": "images/covers/lori-hayes-dont-cost-nothin-cover.png",
-  "image": "images/covers/lori-hayes-dont-cost-nothin-cover.png",
-  "audio": "https://www.dropbox.com/scl/fi/o7pr6597qtyokfj34tco8/lori-hayes-dont-cost-nuthin-mp3.mp3?rlkey=pl7tvgs4ngb96xtkiiqh3paim&st=c5gun209&raw=1",
-  "audioSrc": "https://www.dropbox.com/scl/fi/o7pr6597qtyokfj34tco8/lori-hayes-dont-cost-nuthin-mp3.mp3?rlkey=pl7tvgs4ngb96xtkiiqh3paim&st=c5gun209&raw=1",
-  "videos": [
-    {
-      "title": "Official Lyric Video",
-      "youtube": "https://youtu.be/ngkxU-BjJIM",
-      "order": 1
-    }
-  ]
+  "cover": "images/covers/lori-hayes-walk-away-clean-cover.png",
+  "image": "images/covers/lori-hayes-walk-away-clean-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/xw51xywduz1ycbc5fkquo/lori-hayes-walk-away-clean-mp3.mp3?rlkey=6plsxqk8yejowny6l58e6vlmb&st=5wj7ar45&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/xw51xywduz1ycbc5fkquo/lori-hayes-walk-away-clean-mp3.mp3?rlkey=6plsxqk8yejowny6l58e6vlmb&st=5wj7ar45&raw=1",
+  "videos": []
 }
