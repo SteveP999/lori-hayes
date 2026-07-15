@@ -7,7 +7,13 @@
     "album": "Singles",
     "cover": "images/covers/lori-hayes-dont-cost-nothin-cover.png",
     "audioSrc": "https://www.dropbox.com/scl/fi/o7pr6597qtyokfj34tco8/lori-hayes-dont-cost-nuthin-mp3.mp3?rlkey=pl7tvgs4ngb96xtkiiqh3paim&st=c5gun209&raw=1",
-    "videos": []
+    "videos": [
+      {
+        "title": "Official Lyric Video",
+        "youtube": "https://youtu.be/ngkxU-BjJIM",
+        "order": 1
+      }
+    ]
   },
   "tracks": [
     {
@@ -16,7 +22,13 @@
       "album": "Singles",
       "cover": "images/covers/lori-hayes-dont-cost-nothin-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/o7pr6597qtyokfj34tco8/lori-hayes-dont-cost-nuthin-mp3.mp3?rlkey=pl7tvgs4ngb96xtkiiqh3paim&st=c5gun209&raw=1",
-      "videos": []
+      "videos": [
+        {
+          "title": "Official Lyric Video",
+          "youtube": "https://youtu.be/ngkxU-BjJIM",
+          "order": 1
+        }
+      ]
     }
   ]
 }
