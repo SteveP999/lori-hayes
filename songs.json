@@ -21,7 +21,7 @@
       }
     ],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": []
   },
@@ -35,14 +35,35 @@
     "albumOrder": 2,
     "albumCover": "images/covers/lori-hayes-wild-heart-ALBUM-cover.png",
     "type": "single",
-    "isLatest": true,
+    "isLatest": false,
     "cover": "images/covers/lori-hayes-walk-away-clean-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/xw51xywduz1ycbc5fkquo/lori-hayes-walk-away-clean-mp3.mp3?rlkey=6plsxqk8yejowny6l58e6vlmb&st=5wj7ar45&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/xw51xywduz1ycbc5fkquo/lori-hayes-walk-away-clean-mp3.mp3?rlkey=6plsxqk8yejowny6l58e6vlmb&st=5wj7ar45&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": []
+  },
+  {
+    "id": "lori-hayes-don-t-need-permission",
+    "num": "03",
+    "title": "Don't Need Permission",
+    "artist": "Lori Hayes",
+    "album": "Wild Heart",
+    "trackNumber": 3,
+    "albumOrder": 3,
+    "albumCover": "",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/lori-hayes-don-t-need-permission-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/x7ivbea6kkeh09kgjru15/Don-t-Need-Permission-Lori-Hayes-Streaming-Master.mp3?rlkey=3tr4jucvmqmydfv2ynbuvm2ir&st=601vreac&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/x7ivbea6kkeh09kgjru15/Don-t-Need-Permission-Lori-Hayes-Streaming-Master.mp3?rlkey=3tr4jucvmqmydfv2ynbuvm2ir&st=601vreac&raw=1",
+    "videos": [],
+    "includeOnRadio": false,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
